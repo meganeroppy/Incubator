@@ -1,5 +1,4 @@
 <?php
-	//It is a master file
 	phpenfo();
 
-
+	echo "10 * 10 * 10";
