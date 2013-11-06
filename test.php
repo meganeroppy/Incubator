@@ -1,2 +1,2 @@
 <?php
-	phpinfo();
+	echo "it look like it has been edited.";
