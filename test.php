@@ -1,2 +1,4 @@
 <?php
-	echo "it look like it has been edited.";
+	phpenfo();
+
+	echo "10 * 10 * 10";
